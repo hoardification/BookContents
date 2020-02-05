@@ -1,5 +1,7 @@
 # This is my version of the README
 
+I will be opening and fixing content to support the book contents and latest version of Unity. If there are additions to content, I will add them to BookContentComplete.
+
 ---
 
 Make sure to personalize your welcome message with something unique!
